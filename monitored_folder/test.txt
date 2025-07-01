@@ -1,0 +1,14 @@
+Project Name: SecureFileMonitor
+Description: A Python application that monitors a selected folder for file changes (additions, deletions, modifications) using SHA-256 hashing. It includes a GUI (Tkinter), real-time monitoring, and optional email alerts.
+
+🚀 Benefits:
+
+Detects tampered, deleted, or newly added files
+
+Monitors file integrity for cybersecurity and compliance
+
+Can be used in personal or organizational systems
+
+GUI makes it beginner-friendly
+
+Real-time alerts prevent unnoticed threats
