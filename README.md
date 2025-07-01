@@ -12,9 +12,11 @@
 - tkinter
 - watchdog
 
+![GUI Demo](https://i.postimg.cc/cCnt04XF/Screenshot-2025-07-01-224804.png)
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 python checker_gui.py
 
-![GUI Demo](https://i.postimg.cc/cCnt04XF/Screenshot-2025-07-01-224804.png)
+
